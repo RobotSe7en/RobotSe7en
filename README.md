@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RobotSe7en
 - 👀 I’m interested in NLP
-- 🌱 I’m currently learning LLMs
-- 📫 How to reach me ...
+- 🌱 I’m currently learning LLMs, KGs, NLP and so on.
 
 <!---
 RobotSe7en/RobotSe7en is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
